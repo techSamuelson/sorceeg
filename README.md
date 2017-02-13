@@ -1,2 +1,4 @@
 # sorceeg
-A gulp starter kit
+### A gulp.js Starter Kit
+
+`run npm install gulp
